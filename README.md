@@ -10,7 +10,9 @@ We've three dataset -
 
 Dataset link: https://www.kaggle.com/datasets/saurabhbagchi/books-dataset
 
+Overview:-
 
+The Book Recommendation System is designed to help users discover books that match their interests and preferences. It analyzes user behavior, book features, and historical interactions to generate personalized recommendations. The system aims to improve user experience by reducing search effort and providing relevant book suggestions.
 
 
 
@@ -18,10 +20,6 @@ Dataset link: https://www.kaggle.com/datasets/saurabhbagchi/books-dataset
 
 
 
-
-Overview
-
-The Book Recommendation System is designed to help users discover books that match their interests and preferences. It analyzes user behavior, book features, and historical interactions to generate personalized recommendations. The system aims to improve user experience by reducing search effort and providing relevant book suggestions.
 
 Features:-
     • Personalized book recommendations
