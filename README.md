@@ -11,6 +11,11 @@ We've three dataset -
 Dataset link: https://www.kaggle.com/datasets/saurabhbagchi/books-dataset
 
 
+<img width="2760" height="1504" alt="Book Recommandation System" src="https://github.com/user-attachments/assets/8eb2987d-cf90-4e2a-a440-5fcb3d01c789" />
+
+
+
+
 Overview
 
 The Book Recommendation System is designed to help users discover books that match their interests and preferences. It analyzes user behavior, book features, and historical interactions to generate personalized recommendations. The system aims to improve user experience by reducing search effort and providing relevant book suggestions.
@@ -34,13 +39,6 @@ Working Principle:-
 
   The system collects and processes book-related data such as titles, authors, genres, ratings, and user preferences. It then applies recommendation techniques:
     • Collaborative Filtering – Recommends books by identifying patterns among users with similar preferences.
-
-Dataset:-
-
-  The system typically uses datasets containing:
-    • Book information (title, author, genre, publication details)
-    • User ratings and reviews
-    • User interaction history
 
 
 Conclusion:-
